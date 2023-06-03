@@ -1,0 +1,43 @@
+h1 {
+  font-size: 5rem;
+}
+
+.counter {
+  text-align: center;
+}
+
+.buttons {
+  width: 50vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.plus {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: aqua;
+  border-width: 1px;
+  border-color: aqua;
+  color: azure;
+  font-size: 4rem;
+}
+
+.minus {
+  padding: 10px 25px;
+  border-radius: 5px;
+  background-color: pink;
+  border-width: 1px;
+  border-color: pink;
+  color: azure;
+  font-size: 4rem;
+}
+
+.reset {
+  padding: 10px 55px;
+  border-radius: 5px;
+  background-color: yellowgreen;
+  border-width: 1px;
+  border-color: yellowgreen;
+  color: azure;
+  font-size: 4rem;
+}
